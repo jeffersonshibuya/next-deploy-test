@@ -2055,7 +2055,7 @@ tar-stream@^2.2.0:
     inherits "^2.0.3"
     readable-stream "^3.1.1"
 
-tf-next@latest:
+tf-next@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/tf-next/-/tf-next-0.7.0.tgz#d1cb249c5e87302259521495df5098c9d4f47c46"
   integrity sha512-VXmieXVmZ1okNxUI4QGdWfJETc+MLAvkL1a3FtuGFvAvFSEdwy665Cc2gVAvb1zOJ3BtUCR2NCVLfWYdILLV5A==
